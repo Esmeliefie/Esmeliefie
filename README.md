@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @Esmeliefie
+- 👋 Hi, I’m Esmeralda
 - 👀 I’m interested in F1, rock climbing and coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning 
+    -JavaScript
+    -shell
+    -HTML 
+    -CSS
+    -C
+    -Python!
 - 📫 Reach me via email...esykok@gmail.com
 
