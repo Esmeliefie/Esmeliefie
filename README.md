@@ -1,12 +1,12 @@
 <h1 align="center">Hi There👋<br></h1>
-<h3 align="left">I'm a professional Googler and Stack-overflower <br> Bootcamps I've done or currently busy with:</h3>
+<h3 align="center">I'm a professional Googler and Stack-overflower <br> Bootcamps I've done or currently busy with:</h3>
 <ol>
 <li>The Frontend Careers path: <a href="https://scrimba.com/">Scrimba</a></li>
 <li>Responsive Webdesign certificate: <a href="https://www.freecodecamp.org/certification/esmeliefie/responsive-web-design">FreeCodeCamp</a></li>
 <li>Software Engineering Nanodegree: <a href="https://www.alxafrica.com/">ALX</a></li>
 </ol>
 <h2>Languages & Tools</h2>
-<p align="right">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" alt="bash" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="css" width="50" height="50" />
@@ -14,7 +14,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JS" width="50" height="50" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50"/>      
 </p>
-<p align="right">
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
