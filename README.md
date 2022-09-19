@@ -6,7 +6,7 @@
 <li>Software Engineering Nanodegree: <a href="https://www.alxafrica.com/">ALX</a></li>
 </ol>
 <h3>Check out my Personal Website:</h3>
-<p></p>
+<p align="center" >https://serene-bienenstitch-159055.netlify.app/</p>
 <h2>Languages & Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
