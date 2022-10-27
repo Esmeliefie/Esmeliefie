@@ -5,8 +5,9 @@
 <li>Responsive Webdesign certificate: <a href="https://www.freecodecamp.org/certification/esmeliefie/responsive-web-design">FreeCodeCamp</a></li>
 <li>Software Engineering Nanodegree: <a href="https://www.alxafrica.com/">ALX</a></li>
 </ol>
-<h3>Check out my Personal Website:</h3>
+<h3>Check out my Personal sites:</h3>
 <p align="center" >https://serene-bienenstitch-159055.netlify.app/</p>
+<p align="center" ><a href="https://marvelous-heliotrope-bc5842.netlify.app/">Digital Business Card </a></p>
 <h2>Languages & Tools</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="50" height="50"/>
